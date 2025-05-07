@@ -3,10 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=chaerinryu&fontColor=ffffff&height=200&color=FFB3C7)
   
 ### Tech Stack
-<img src="https://img.shields.io/badge/Java-02749C?style=flat-square"/></a>
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat)
 <img src="https://img.shields.io/badge/SpirngBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=flat)
 <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
@@ -15,7 +16,7 @@
 ---
 ### Tool
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?logo=intellij-idea&logoColor=white&style=flat)
-<img src="https://img.shields.io/badge/VisualStudio-0098FF?style=flat-square&logo=VisualStudio&logoColor=white"/></a>
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=flat)
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
 <a href="https://imported-gum-b0e.notion.site/60cdf4cc106042eebe8c04400048562d?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://imported-gum-b0e.notion.site/60cdf4cc106042eebe8c04400048562d?pvs=4"/></a>
 ---
