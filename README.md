@@ -13,12 +13,14 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
 ---
 ### Tool
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?logo=intellij-idea&logoColor=white&style=flat)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=flat)
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
 <a href="https://imported-gum-b0e.notion.site/60cdf4cc106042eebe8c04400048562d?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://imported-gum-b0e.notion.site/60cdf4cc106042eebe8c04400048562d?pvs=4"/></a>
+![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=flat)
 ---
 ### Contact
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
