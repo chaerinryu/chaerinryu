@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 ---
 ### Tool
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?logo=intellij-idea&logoColor=white&style=flat)
 <img src="https://img.shields.io/badge/VisualStudio-0098FF?style=flat-square&logo=VisualStudio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
 <a href="https://imported-gum-b0e.notion.site/60cdf4cc106042eebe8c04400048562d?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://imported-gum-b0e.notion.site/60cdf4cc106042eebe8c04400048562d?pvs=4"/></a>
